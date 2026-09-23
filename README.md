@@ -1,7 +1,9 @@
 # Lockwood Colour Scheme
 
 <div style="text-align: center;">
-  ![logo](./assets/logo.png)
+
+![logo](./assets/logo.png)
+
 </div>
 
 Lockwood is a cross-platform dark colour scheme for Neovim, terminal emulators,
